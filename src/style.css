@@ -1,0 +1,32 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.weather-app {
+  max-width: 650px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ffe24f;
+  border-radius: 5px;
+}
+
+h1 {
+  color: rgb(118, 117, 116);
+  font-size: 34px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  font-size: 18px;
+  line-height: 19px;
+  color: rgb(118, 117, 116);
+  margin: 0;
+  padding: 0;
+}

@@ -21,6 +21,7 @@ li {
   color: rgb(118, 117, 116);
   margin: 0;
   padding: 0;
+  text-transform: capitalize;
 }
 
 small {

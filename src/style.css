@@ -65,3 +65,17 @@ small {
   font-size: 16px;
   top: -32px;
 }
+
+.weather-temperature .active {
+  color: rgb(118, 117, 116);
+  text-decoration: none;
+  cursor: default;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+
+.link-unit {
+  text-decoration: none;
+}

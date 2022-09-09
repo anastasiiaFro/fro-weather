@@ -90,3 +90,21 @@ small {
   text-decoration: none;
   color: rgb(1, 163, 23);
 }
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.6;
+}
+
+.weather-forecast-temperature {
+  font-size: 12px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
